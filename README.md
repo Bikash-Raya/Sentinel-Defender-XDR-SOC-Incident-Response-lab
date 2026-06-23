@@ -1,4 +1,4 @@
-# Sentinel-Defender-XDR-SOC-Incident-Response-lab
+
 
 <div align="center">
 
