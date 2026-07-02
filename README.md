@@ -28,7 +28,7 @@
 
 | File | Description |
 | --- | --- |
-| [Sentinel_Defender_SOC_IR_Lab_Report.pdf](./Sentinel_Defender_SOC_IR_Lab_Report.pdf) | Complete lab report with all screenshots embedded |
+| [SOC_Detection_Hunting_Incident_Response_Lab_Report.pdf](./SOC_Detection_Hunting_Incident_Response_Lab_Report.pdf) | Complete lab report with all screenshots embedded |
 | README.md | Project overview |
 
 ---
