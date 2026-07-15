@@ -1,5 +1,3 @@
-
-
 <div align="center">
 
 # 🛡️ Microsoft Sentinel & Defender XDR – SOC Incident Response Lab: Brute Force Attack Detection & Response
@@ -18,18 +16,16 @@
 ---
 
 **Prepared by:** Bikash Raya
-**Project Type:** SOC Lab — Brute Force Attack Simulation, Detection, Analytics Rule Creation & Incident Response
 
 </div>
 
 ---
 
-## 📁 Repository Structure
+## 📁 Full Lab Walkthrough — Proof of Work
 
 | File | Description |
 | --- | --- |
-| [SOC_Detection_Hunting_Incident_Response_Lab_Report.pdf](./SOC_Detection_Hunting_Incident_Response_Lab_Report.pdf) | Complete lab report with all screenshots embedded |
-| README.md | Project overview |
+| [SOC_Detection_Hunting_Incident_Response_Lab_Report.pdf](./SOC_Detection_Hunting_Incident_Response_Lab_Report.pdf) | Hands-on lab walkthrough with screenshots |
 
 ---
 
@@ -290,6 +286,21 @@ SecurityEvent
 ## 🎯 Key Takeaway
 
 > This lab demonstrates practical, hands-on SOC experience using Microsoft Sentinel and Microsoft Defender XDR — covering the full incident response lifecycle from infrastructure deployment and attack simulation through log ingestion, KQL-based threat detection, custom analytics rule creation mapped to MITRE ATT&CK T1110, automated incident generation, and structured incident response in the Defender XDR unified portal. The brute force attack using Hydra generated real Windows Security Events (4624/4625) that were detected and escalated as a High-severity incident, then investigated and closed following SOC procedures.
+
+---
+
+## 🔗 Related Projects
+
+> Part of the **Bikash Security Lab** series:
+> * [Microsoft Sentinel — GeoIP Watchlist & Attack Map](https://github.com/Bikash-Raya/microsoft-sentinel-geoip-watchlist-attack-map)
+> * [LummaC2 Threat Hunting — Sentinel & Sysmon](https://github.com/Bikash-Raya/Threat-Hunting-Lab-Sentinel-Sysmon--lummac2-)
+> * [Vulnerable Web Server — RCE Detection & IR](https://github.com/Bikash-Raya/vulnerable-webserver-rce-detection-incident-response-)
+> * [Nessus Vulnerability Management Lab](https://github.com/Bikash-Raya/Nessus-Vulnerability-Management-Lab)
+> * [System Hardening Lab](https://github.com/Bikash-Raya/system-hardening-lab-linux-windows-active-directory)
+
+---
+
+> 📄 Thanks for reading! For a full hands-on walkthrough of this lab with screenshots — [download the lab report here](./SOC_Detection_Hunting_Incident_Response_Lab_Report.pdf)
 
 ---
 
